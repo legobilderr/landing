@@ -426,13 +426,11 @@ a {
   line-height: 46px;
   margin: unset;
 }
-.important_bottom_Item svg {
-  margin-right: 28px;
-}
 
 .important_bottom_Item p:nth-child(2) {
-  max-width: 50px;
+  max-width: 60px;
   width: 100%;
+  text-align: center;
 }
 /* .important_items_imgwrapper.planet {
   padding-top: 7px;
