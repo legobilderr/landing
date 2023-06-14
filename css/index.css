@@ -783,6 +783,11 @@ a {
     justify-content: end;
   }
 
+  .close-button img {
+    width: 30px;
+    margin-bottom: 50px;
+  }
+
   .mobile-menu-wrapper {
     transform: translateX(0);
     transition: transform 0.3s linear;
