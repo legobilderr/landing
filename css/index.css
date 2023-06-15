@@ -679,6 +679,9 @@ a {
 .footer_socialItem .list li:not(:last-child) {
   margin-bottom: 31px;
 }
+.footer_socialItem .list li svg {
+  margin-right: 10px;
+}
 
 .footer_socialImage {
   width: 18px;
