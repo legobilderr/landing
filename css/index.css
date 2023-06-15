@@ -1085,6 +1085,17 @@ a {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .footer_socialItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-column: 1 / span 2;
+  }
+
+  .footer_Item.disabled {
+    display: none;
+  }
+
   .footer_text .footer_Item:nth-child(2) {
     order: 1;
     grid-column: 1 / span 2;
